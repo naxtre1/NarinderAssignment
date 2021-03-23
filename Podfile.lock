@@ -1,0 +1,24 @@
+PODS:
+  - IQKeyboardManager (6.5.6)
+  - Kingfisher (6.1.1)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - IQKeyboardManager
+  - Kingfisher
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManager
+    - Kingfisher
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  IQKeyboardManager: 2a6e97afdafc7becf0cb17a9a8d795e3a980717f
+  Kingfisher: 676d63307fbef6ed5d5ed400bff36983480d7500
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 31b2dd552511c2cc907b3b4e788bf70e1d97c63b
+
+COCOAPODS: 1.10.1
